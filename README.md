@@ -1,8 +1,15 @@
-Code-Assistant
+# Zukti
 
-Hello!!
-Steps to be followed before using the bot
------------------------------------------
-1)npm install
-2)npm install --no-bin-links
-3)npm run serv
+## Steps to run tests
+
+npm test
+
+## Steps to run application
+
+npm install
+npm run build
+npm run serv
+
+#### For more information, refer
+
+[GitLab](https://gitlab-dev.stackroute.in/wave13/Code-Asst/wikis/home)
